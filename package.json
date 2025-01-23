@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "BcyesilCapacitorPluginPrinter.podspec"
+    "capacitor-plugin-printer.podspec"
   ],
   "author": "Kurt Van den Branden",
   "license": "MIT",
